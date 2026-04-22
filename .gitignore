@@ -53,3 +53,22 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# From Brian, specifically for Simplicity Studio 6
+*.bak0
+*.bak
+.DS_Store/
+.DS_Store
+cmake_gcc/
+!cmake_gcc/*_project.cmake
+
+*.bin
+*.hex
+*.elf
+*.map
+*.s37
+*.gbl
+
+.uceditor/
+.projectlinkstore
+ 

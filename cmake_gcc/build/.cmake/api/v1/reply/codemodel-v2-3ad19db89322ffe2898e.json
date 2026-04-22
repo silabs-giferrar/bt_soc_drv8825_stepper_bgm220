@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-base-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "base",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bt_soc_drv8825_stepper_bgm220",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bt_soc_drv8825_stepper_bgm220::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bt_soc_drv8825_stepper_bgm220-base-41f1efedd18ceabfc495.json",
+					"name" : "bt_soc_drv8825_stepper_bgm220",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "slc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-slc-base-cf6d3dc813b99199248f.json",
+					"name" : "slc",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/giferrar/SimplicityStudio/v6_workspace/bt_soc_drv8825_stepper_bgm220/cmake_gcc/build",
+		"source" : "C:/Users/giferrar/SimplicityStudio/v6_workspace/bt_soc_drv8825_stepper_bgm220/cmake_gcc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
