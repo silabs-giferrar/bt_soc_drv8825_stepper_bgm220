@@ -1,4 +1,4 @@
-# SoC - drv8825 stepper driver example
+# SoC - DRV8825 stepper driver example
 
 This example ports the MIKROE library for the Stepper 21 Click board (TI DRV8825).
 It is developped for the BGM220 Explorer Kit (EK4314A), but can be easily adapted to other development kits.
